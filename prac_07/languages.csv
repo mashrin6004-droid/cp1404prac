@@ -1,0 +1,11 @@
+
+Name,Typing,Reflection,PointerArithmetic
+Python,Dynamic,Yes,No
+Java,Static,Yes,No
+C,Static,No,Yes
+C++,Static,No,Yes
+C#,Static,Yes,Yes
+Rust,Static,No,No
+Go,Static,No,No
+JavaScript,Dynamic,Yes,No
+D,Static,No,Yes
